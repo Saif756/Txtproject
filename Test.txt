@@ -1,4 +1,0 @@
-With GitHub, users can create accounts, upload files, and create coding projects. However, the major work of GitHub begins when users collaborate during projects. Teams are vital to the process because a group of people ultimately build many development projects, as opposed to coding individuals.03-Mar-2023
-
-
-
